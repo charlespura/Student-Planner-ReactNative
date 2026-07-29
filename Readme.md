@@ -1,7 +1,5 @@
 # 📚 Student Planner - React Native
 
-<img width="1000" height="500" alt="Screenshot 2026-07-29 113801" src="https://github.com/user-attachments/assets/04f557ec-3a08-4333-b0eb-fdc59618798f" />
-<img width="1000" height="500" alt="Screenshot 2026-07-29 113851" src="https://github.com/user-attachments/assets/1fe08028-db22-4377-8504-f095df1788d3" />
 
 <div align="center">
 
